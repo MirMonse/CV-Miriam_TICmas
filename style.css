@@ -1,0 +1,10 @@
+#more {display: none;}
+
+/* boton  ir arriba*/
+#myBtn1 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 10px; /* Place the button at the bottom of the page */
+    right: 20px; 
+    
+  }
